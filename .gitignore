@@ -1,0 +1,17 @@
+
+.classpath
+.DS_Store
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/application.properties
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/part/Part.class
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/part/PartDALService.class
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/part/PartsController.class
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/printer/PrinterController.class
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/printer/PrinterDALService$1.class
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/printer/PrinterDALService.class
+target/test-classes/com/printerapijavaspring/webservices/printerapijavaspring/PrinterApiJavaSpringApplicationTests.class
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/PrinterApiJavaSpringApplication.class
+target/classes/com/printerapijavaspring/webservices/printerapijavaspring/printer/PrintJob.class
